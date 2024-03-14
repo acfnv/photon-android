@@ -1,2 +1,4 @@
-# photon-android
-Published Photon-2024 APKs for Android Platform
+# Photon-2024
+14 марта, в день анонса приложения Команды Навального «Фотон-2024» Роскомнадзор заблокировал домен Google Store. Вы всё ещё можете установить приложение на ваше Android-устройство, перейдя в раздел [Releases](https://github.com/acfnv/photon-android/releases/latest), скачав файл *.apk.
+
+После загрузки, откройте файл, разрешите «установку из неизвестных источников» и установите приложение
